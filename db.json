@@ -1,0 +1,39 @@
+{
+  "option1": {
+    "topLine": "<p>El mejor modelo de negocio para 2025. <span style=\"text-decoration: underline;\">Altamente rentable</span></p>",
+    "topLineColor": "white",
+    "headline": "<p>La oportunidad para generar ingresos en el 2025 desde tu casa usando tu chat de whatsapp</p>",
+    "headlineColor": "white",
+    "subHeadline": "",
+    "subHeadlineColor": "white",
+    "videoId": "949248093",
+    "videoLibrary": "",
+    "videoPlatform": "vimeo",
+    "buttonUrl": "https://metodoenigma.com/landing/go/1",
+    "buttonBgColor": "#016630",
+    "buttonTextColor": "white",
+    "buttonText": "<p>!QUIERO RECIBIRLO GRATIS EN WHATSAPP!</p>",
+    "buttonDelay": "3500",
+    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg"
+  },
+  "option2": {
+    "barProgressPercent": "25",
+    "barProgressText": "25%",
+    "barProgressTextColor": "white",
+    "topLine": "<p>Video [1/4]-3 min</p>",
+    "topLineColor": "white",
+    "headline": "",
+    "headlineColor": "white",
+    "subHeadline": "<p>This is a subheadline asdfasdfasdfadsfasf</p>",
+    "subHeadlineColor": "white",
+    "videoId": "944948954",
+    "videoPlatform": "vimeo",
+    "buttonUrl": "https://metodoenigma.com/clase-2/uf35yp",
+    "buttonBgColor": "#fb2c36",
+    "buttonTextColor": "white",
+    "buttonText": "<p>¡ IR AL VIDEO #2 !</p>",
+    "countDownTime": "2025-03-31 10:38:15",
+    "countDownText": "<p>German el entrenamiento se cierra en: </p>",
+    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg"
+  }
+}
