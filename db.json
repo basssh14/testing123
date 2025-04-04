@@ -56,17 +56,18 @@
     "videoLibrary": "",
     "buttonBgColor": "#fb2c36",
     "buttonTextColor": "white",
-    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
+    "bgImageUrl": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
     "countDownText": "<p>German el entrenamiento se cierra en: </p>",
+    "countDownTime": "2025-04-21 10:38:15",
     "topLineColor": "white",
     "headlineColor": "white",
     "subHeadlineColor": "white",
-    "buttonCopy": "",
+    "buttonCopy": "Contactanos por wsp",
     "buttonAction": "LPI-REDIRECT-WPP",
     "buttonTime": {
       "hours": 0,
       "minutes": 0,
-      "seconds": 0
+      "seconds": 60
     },
     "idFunnel": 1,
     "showCounter": true,
@@ -102,17 +103,18 @@
     "videoLibrary": "",
     "buttonBgColor": "#fb2c36",
     "buttonTextColor": "white",
-    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
+    "bgImageUrl": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
     "countDownText": "<p>German el entrenamiento se cierra en: </p>",
+    "countDownTime": "2025-04-21 10:38:15",
     "topLineColor": "white",
     "headlineColor": "white",
     "subHeadlineColor": "white",
-    "buttonCopy": "",
+    "buttonCopy": "Mostrar wsp",
     "buttonAction": "LPI-REDIRECT-WPP",
     "buttonTime": {
       "hours": 0,
       "minutes": 0,
-      "seconds": 0
+      "seconds": 4
     },
     "idFunnel": 1,
     "showCounter": false,
