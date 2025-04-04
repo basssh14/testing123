@@ -134,5 +134,10 @@
   "codeResponse": 200,
     "result": true,
     "message": "DON_EXIST_TOKEN_OR_URL"
+},
+  "option6": {
+  "codeResponse": 200,
+    "result": true,
+    "message": "DEADLINE_TIME"
 }
 }
