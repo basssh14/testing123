@@ -1,24 +1,5 @@
 {
-  "option2": {
-    "barProgressPercent": "25",
-    "barProgressText": "25%",
-    "barProgressTextColor": "white",
-    "topLine": "<p>Video [1/4]-3 min</p>",
-    "topLineColor": "white",
-    "headline": "",
-    "headlineColor": "white",
-    "subHeadline": "<p>This is a subheadline asdfasdfasdfadsfasf</p>",
-    "subHeadlineColor": "white",
-    "videoId": "944948954",
-    "videoPlatform": "vimeo",
-    "buttonUrl": "https://metodoenigma.com/clase-2/uf35yp",
-    "buttonBgColor": "#fb2c36",
-    "buttonTextColor": "white",
-    "buttonText": "<p>¡ IR AL VIDEO #2 !</p>",
-    "countDownTime": "2025-04-21 10:38:15",
-    "countDownText": "<p>German el entrenamiento se cierra en: </p>",
-    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg"
-  },
+  
   "option3": {
     "codeResponse": 200,
     "result": true,
