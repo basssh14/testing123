@@ -1,21 +1,4 @@
 {
-  "option1": {
-    "topLine": "<p>El mejor modelo de negocio para 2025. <span style=\"text-decoration: underline;\">Altamente rentable</span></p>",
-    "topLineColor": "white",
-    "headline": "<p>La oportunidad para generar ingresos en el 2025 desde tu casa usando tu chat de whatsapp</p>",
-    "headlineColor": "white",
-    "subHeadline": "",
-    "subHeadlineColor": "white",
-    "videoId": "949248093",
-    "videoLibrary": "",
-    "videoPlatform": "vimeo",
-    "buttonUrl": "https://metodoenigma.com/landing/go/1",
-    "buttonBgColor": "#016630",
-    "buttonTextColor": "white",
-    "buttonText": "<p>!QUIERO RECIBIRLO GRATIS EN WHATSAPP!</p>",
-    "buttonDelay": "3500",
-    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg"
-  },
   "option2": {
     "barProgressPercent": "25",
     "barProgressText": "25%",
