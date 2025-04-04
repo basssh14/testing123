@@ -37,6 +37,10 @@
     "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg"
   },
   "option3": {
+    "codeResponse": 200,
+    "result": true,
+    "message": "PAGE encontrado exitosamente.",
+  "data": {
     "idPage": 1,
     "name": "LPI",
     "topline": "Top line ajdklfjalsdjfkasdf",
@@ -52,18 +56,17 @@
     "videoLibrary": "",
     "buttonBgColor": "#fb2c36",
     "buttonTextColor": "white",
-    "bgImageUrl": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
+    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
     "countDownText": "<p>German el entrenamiento se cierra en: </p>",
-    "countDownTime": "2025-04-21 10:38:15",
     "topLineColor": "white",
     "headlineColor": "white",
     "subHeadlineColor": "white",
-    "buttonCopy": "Contactanos por wsp",
+    "buttonCopy": "",
     "buttonAction": "LPI-REDIRECT-WPP",
     "buttonTime": {
       "hours": 0,
       "minutes": 0,
-      "seconds": 60
+      "seconds": 0
     },
     "idFunnel": 1,
     "showCounter": true,
@@ -77,8 +80,13 @@
       "action": "LPI-REDIRECT-WPP",
       "url": "https://wa.me/573504671760?text=ACCESO%20GRATIS"
     }
+  }
   },
-  "option4": {
+  "option4":  {
+    "codeResponse": 200,
+    "result": true,
+    "message": "PAGE encontrado exitosamente.",
+  "data":{
     "idPage": 1,
     "name": "LPI",
     "topline": "Top line ajdklfjalsdjfkasdf",
@@ -94,18 +102,17 @@
     "videoLibrary": "",
     "buttonBgColor": "#fb2c36",
     "buttonTextColor": "white",
-    "bgImageUrl": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
+    "bgImage": "https://metodoenigma.com/assets/templates/clases/images/bg1-min.jpg",
     "countDownText": "<p>German el entrenamiento se cierra en: </p>",
-    "countDownTime": "2025-04-21 10:38:15",
     "topLineColor": "white",
     "headlineColor": "white",
     "subHeadlineColor": "white",
-    "buttonCopy": "Mostrar wsp",
+    "buttonCopy": "",
     "buttonAction": "LPI-REDIRECT-WPP",
     "buttonTime": {
       "hours": 0,
       "minutes": 0,
-      "seconds": 4
+      "seconds": 0
     },
     "idFunnel": 1,
     "showCounter": false,
@@ -120,4 +127,10 @@
       "url": "https://wa.me/573504671760?text=ACCESO%20GRATIS"
     }
   }
+},
+"option5": {
+  "codeResponse": 200,
+    "result": true,
+    "message": "DON_EXIST_TOKEN_OR_URL"
+}
 }
